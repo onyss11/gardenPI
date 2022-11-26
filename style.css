@@ -1,0 +1,19 @@
+body {
+    background-color: #0099c7;
+    background-image: url("https://www.transparenttextures.com/patterns/dirty-old-black-shirt.png");
+}
+
+.grid {
+  /*background-color: aqua;
+  color: red;
+  padding: 60px;*/
+  margin: 50px;
+  /*position: sticky;*/
+}
+
+.card{
+    background-color: cornsilk;
+    /* margin: 10px; */
+    /*padding: 5px;*/
+}
+
